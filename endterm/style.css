@@ -1,0 +1,48 @@
+/*
+project made by Gurpreet Singh
+1811981132
+Upgrad_fsd
+*/
+body {
+    background-image: url('https://cdn.vox-cdn.com/thumbor/gD-4C8y3GZMNks2-l_cWs96K60U=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19760297/1203807634.jpg.jpg');
+}
+
+.div_blue {
+    background-color: burlywood;
+    color: aliceblue;
+}
+
+h1
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+#inputs_nav {
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+#inputs_nav input {
+    height: 40px;
+    border: 3px solid #132c33;
+    background-color: #51c4d3;
+    border-radius: 5px;
+    color: #132c33;
+}
+
+#inputs_nav button {
+    width: 100px;
+    background-color: #132c33;
+    color: #51c4d3;
+    border-radius: 30px;
+    border: 3px solid #51c4d3;
+}
+/*
+project made by Gurpreet Singh
+1811981132
+Upgrad_fsd
+*/
